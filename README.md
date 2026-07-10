@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction using Linear Regression & PySpark
 
-This repository contains a Jupyter Notebook for predicting stock prices using **Linear Regression** with **PySpark**.
+This repository contains a Jupyter Notebook for predicting stock prices using **Linear Regression**.
 
 ## 📌 Project Overview
 
